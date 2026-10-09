@@ -1,0 +1,21 @@
+# FIEBS | Priestranný 3 izbový byt vo vyhľadávanom projekte Manhattan na Račianskej ulici
+
+> Realitná kancelária FIEBS ponúka na predaj nadštandardný 3-izbový byt v prestížnej novostavbe Manhattan na Račianskej ulici, ktorá svojim rezidentom poskytuje jedinečný komfort vrátane vlastnej neptretržitej recepcie, garáže či napr. spoločenskej miestnosti, určenej pre všetkých obyvateľov bytového domu. Byt sa nachádza na 2. poschodí z 26, má rozlohu 79 m² a vyniká skvelou dispozíciou a priestran
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 3-izbový
+- Plocha: 79 m²
+- Podlaží: 2
+- Stav: Novostavba
+- Energetická náročnost: A
+- Lokalita: Nové Mesto, Bratislava
+- Cena: 325 000 €
+
+## Kontakt
+- Makléř: Simona Fieberová
+- Telefon: +421904095181
+- E-mail: fieberova@fiebs.sk
+- Kancelář: FIEBS
+- Web kanceláře: http://www.fiebs.sk
